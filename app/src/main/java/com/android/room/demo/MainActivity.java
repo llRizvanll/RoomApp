@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity
 
 
         /**
-         *  Insert and show data using Database async
+         *  Insert and show data using Database Async
          */
         AsyncTask.execute(new Runnable() {
             @Override
